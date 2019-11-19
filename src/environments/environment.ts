@@ -3,6 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  origin: 'https://spreadsheets.google.com/feeds/worksheets/19JPfFqFUslDaua5UaSpu0Et89qJF_XTnMfGn_JGz-z8/public/full?alt=json',
   production: false
 };
 
